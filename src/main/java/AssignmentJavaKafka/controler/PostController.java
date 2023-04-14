@@ -1,6 +1,6 @@
 package AssignmentJavaKafka.controler;
 
-import AssignmentJavaKafka.mdb.model.Post;
+import AssignmentJavaKafka.model.Post;
 import AssignmentJavaKafka.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

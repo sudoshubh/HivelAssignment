@@ -1,4 +1,4 @@
-package AssignmentJavaKafka.mdb.model;
+package AssignmentJavaKafka.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
