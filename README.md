@@ -10,8 +10,8 @@ This project is to showcase my profile in Technology: Spring Boot | MongoDB | Ap
 ##### -> Kafka Setup on local Machine
 
 ### Trade offs:
-1.It's a job Post application where we posting job & do CRUD opr.
-2.Make system event driven we have configured Apache Kafka in config package;
+1. It's a job Post application where we posting job & do CRUD opr.
+2. Make system event driven we have configured Apache Kafka in config package;
 
 
 _Kafka command_:
