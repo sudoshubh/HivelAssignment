@@ -4,11 +4,10 @@ This project is to showcase my profile in Technology: Spring Boot | MongoDB | Ap
 
 
 *Requried resources
-##### -> Mongo DB Atlas remote server connection string
+##### -> Mongo DB Atlas remote server connection string [MongoDb](https://account.mongodb.com/account/login?_ga=2.186707873.862837358.1681463533-1738354520.1673778328 "Atlas Login")
 ##### -> Kafka Setup on local System
 
 
-[MongoDb](https://account.mongodb.com/account/login?_ga=2.186707873.862837358.1681463533-1738354520.1673778328 "Atlas Login")
 
 _Kafka command_:
 1. .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties 
@@ -18,4 +17,4 @@ _Kafka command_:
 
 
 
->Ping if any suggestion & queries 👍)
+>Ping if any suggestions & queries 👍)
