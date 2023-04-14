@@ -1,6 +1,6 @@
-## HivelAssessmet
+## Hivel_Assessment
 
-This is project to showcase the Spring Boot, MongoDB, and Kafka based(Event driven distributed messaging system)
+This project is to showcase my profile in Technology: Spring Boot | MongoDB | Apache_Kafka 
 
 
 *Requried resources
