@@ -14,23 +14,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 @SpringBootApplication
 @EnableMongoRepositories
 public class TestAssignmentApplication  {
-/*
-	@Autowired
-	private KafkaTemplate<String, Object> template;
-	private String topic ="shubham";*/
 
-	/*@GetMapping("/publish/{name}")
-	public String publishMessage(@PathVariable String name ){
-		template.send(topic,"Hi "+name+" This is test Topic from Kafka");
-		return "Data published";
-	}*/
-
-//	@Bean
-//	CommandLineRunner commandLineRunner(KafkaTemplate<String, String> kafkaTemplate){
-//		return args -> {
-//			kafkaTemplate. send("Topic_Test","This is the message Topic consist");
-//		};
-//	}
 	public static void main(String[] args) {
 		SpringApplication.run(TestAssignmentApplication.class, args);
 	}
